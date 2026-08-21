@@ -1,0 +1,4 @@
+NEX'MAP PWA
+Versão do aplicativo: 39
+Atualização: 20/08/2026
+Inclui correção para que ramais diferentes, como 29 e 32, recebam cores diferentes.
